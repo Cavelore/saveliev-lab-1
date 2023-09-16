@@ -1,0 +1,23 @@
+﻿  image.cpp
+C:\Users\Chel\Desktop\ulstu\ОАиП\lab-1\image.cpp(3,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Chel\Desktop\ulstu\ОАиП\lab-1\image.cpp(6,11): warning C4476: 'printf' : unknown type field character '-' in format specifier
+C:\Users\Chel\Desktop\ulstu\ОАиП\lab-1\image.cpp(7,11): warning C4778: 'printf' : unterminated format string '%+                          \n'
+C:\Users\Chel\Desktop\ulstu\ОАиП\lab-1\image.cpp(8,11): warning C4476: 'printf' : unknown type field character ' ' in format specifier
+C:\Users\Chel\Desktop\ulstu\ОАиП\lab-1\image.cpp(9,11): warning C4476: 'printf' : unknown type field character '=' in format specifier
+C:\Users\Chel\Desktop\ulstu\ОАиП\lab-1\image.cpp(10,11): warning C4476: 'printf' : unknown type field character '.' in format specifier
+C:\Users\Chel\Desktop\ulstu\ОАиП\lab-1\image.cpp(11,11): warning C4476: 'printf' : unknown type field character '.' in format specifier
+C:\Users\Chel\Desktop\ulstu\ОАиП\lab-1\image.cpp(16,11): warning C4476: 'printf' : unknown type field character ' ' in format specifier
+C:\Users\Chel\Desktop\ulstu\ОАиП\lab-1\image.cpp(19,11): warning C4476: 'printf' : unknown type field character ' ' in format specifier
+C:\Users\Chel\Desktop\ulstu\ОАиП\lab-1\image.cpp(25,11): warning C4476: 'printf' : unknown type field character ':' in format specifier
+C:\Users\Chel\Desktop\ulstu\ОАиП\lab-1\image.cpp(29,11): warning C4476: 'printf' : unknown type field character '@' in format specifier
+C:\Users\Chel\Desktop\ulstu\ОАиП\lab-1\image.cpp(29,11): warning C4476: 'printf' : unknown type field character ' ' in format specifier
+C:\Users\Chel\Desktop\ulstu\ОАиП\lab-1\image.cpp(30,11): warning C4476: 'printf' : unknown type field character ':' in format specifier
+C:\Users\Chel\Desktop\ulstu\ОАиП\lab-1\image.cpp(30,11): warning C4476: 'printf' : unknown type field character ' ' in format specifier
+C:\Users\Chel\Desktop\ulstu\ОАиП\lab-1\image.cpp(31,11): warning C4476: 'printf' : unknown type field character '=' in format specifier
+C:\Users\Chel\Desktop\ulstu\ОАиП\lab-1\image.cpp(31,11): warning C4476: 'printf' : unknown type field character '#' in format specifier
+C:\Users\Chel\Desktop\ulstu\ОАиП\lab-1\image.cpp(32,11): warning C4476: 'printf' : unknown type field character ':' in format specifier
+C:\Users\Chel\Desktop\ulstu\ОАиП\lab-1\image.cpp(33,11): warning C4476: 'printf' : unknown type field character '+' in format specifier
+C:\Users\Chel\Desktop\ulstu\ОАиП\lab-1\image.cpp(33,11): warning C4476: 'printf' : unknown type field character '.' in format specifier
+C:\Users\Chel\Desktop\ulstu\ОАиП\lab-1\image.cpp(35,11): warning C4476: 'printf' : unknown type field character '.' in format specifier
+C:\Users\Chel\Desktop\ulstu\ОАиП\lab-1\image.cpp(36,11): warning C4476: 'printf' : unknown type field character ':' in format specifier
+  home-work.vcxproj -> C:\Users\Chel\Desktop\ulstu\ОАиП\lab-1\x64\Debug\home-work.exe
